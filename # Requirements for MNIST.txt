@@ -1,0 +1,9 @@
+# Requirements for MNIST Digit Classifier Project
+# Install these dependencies before running the project
+
+numpy            # For numerical operations and array handling
+opencv-python    # For image preprocessing (grayscale, resizing, etc.)
+scikit-learn     # For training and using ML models (SGD, Random Forest, scaling)
+matplotlib       # For visualizing digits and results
+joblib           # For saving and loading trained models
+gradio           # For creating the interactive web interface
